@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning laravel, reactjs, mysql
 - 📫 How to reach me Discord:Zen#0920 Gmail: joeloesteenkimberley@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: trucks
+- ⚡ Fun fact: i like trucks 
 
 <!---
 N13u0W/N13u0W is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
